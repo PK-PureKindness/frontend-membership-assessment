@@ -1,0 +1,157 @@
+body{
+
+    font-family:Arial;
+    
+    }
+    
+    
+    .phone-container{
+    
+    max-width:350px;
+    
+    margin:auto;
+    
+    background:white;
+    
+    padding:15px;
+    
+    border-radius:20px;
+    
+    box-shadow:0px 5px 15px rgba(0,0,0,0.2);
+    
+    }
+    
+    
+    /* Profile */
+    
+    .profile-card{
+    
+    background:#3d3d3d;
+    
+    color:white;
+    
+    padding:20px;
+    
+    border-radius:15px;
+    
+    border:2px solid gold;
+    
+    }
+    
+    
+    .profile-card img{
+    
+    border-radius:50%;
+    
+    margin-bottom:10px;
+    
+    }
+    
+    
+    /* Stats */
+    
+    .stat-card{
+    
+    padding:10px;
+    
+    border-radius:10px;
+    
+    margin:5px;
+    
+    font-size:14px;
+    
+    }
+    
+    
+    .pink{
+    
+    background:#f8caca;
+    
+    }
+    
+    
+    .green{
+    
+    background:#d7f0c2;
+    
+    }
+    
+    
+    .yellow{
+    
+    background:#f5e2a6;
+    
+    }
+    
+    
+    /* Info */
+    
+    .info-box{
+    
+    background:#333;
+    
+    color:white;
+    
+    padding:10px;
+    
+    margin-top:15px;
+    
+    border-radius:10px;
+    
+    }
+    
+    
+    /* Membership */
+    
+    .foundation-btn{
+    
+    background:#d4a017;
+    
+    color:white;
+    
+    border:none;
+    
+    width:100%;
+    
+    padding:10px;
+    
+    margin-top:10px;
+    
+    border-radius:8px;
+    
+    }
+    
+    
+    .economy-btn{
+    
+    background:#5a5a5a;
+    
+    color:white;
+    
+    border:none;
+    
+    width:100%;
+    
+    padding:10px;
+    
+    margin-top:10px;
+    
+    border-radius:8px;
+    
+    }
+    
+    
+    #foundationText,
+    #economyText{
+    
+    display:none;
+    
+    background:#eee;
+    
+    padding:10px;
+    
+    border-radius:8px;
+    
+    margin-top:5px;
+    
+    }
